@@ -1,0 +1,114 @@
+{
+    "Kahvaltı": [
+      ["Kahvaltı Tabağı", "110₺","Kahvaltı tabağı, sabahları tüketilen kahvaltı öğününü sunmak için tasarlanmış bir tabaktır. Genellikle çeşitli kahvaltılık yiyecekleri yerleştirmek için bölümlere sahip olan bir yapıya sahiptir. Kahvaltı tabağı, içerisinde peynir, zeytin, salam, domates, salatalık, tereyağı, reçel gibi kahvaltılık malzemelerin yer alabileceği bir alan sunar. Böylece kullanıcılar kahvaltılarını düzenli bir şekilde hazırlayabilir ve farklı lezzetleri ayrı ayrı tüketebilir. Kahvaltı tabağı, hem görsel açıdan estetik bir sunum sağlar hem de kahvaltıyı daha düzenli ve keyifli hale getirir.","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Serpme Kahvaltı" ,"250₺","Serpme kahvaltı, çeşitli kahvaltılık yiyeceklerin geniş bir tabakta sunulduğu bir kahvaltı çeşididir. Peynir çeşitleri, zeytin, domates, salatalık, tereyağı, reçel gibi lezzetlerin yanı sıra sıcak çay veya kahve de içeren geniş bir kahvaltı seçeneğidir. Serpme kahvaltı, zengin içeriği ve çeşitliliği ile kahvaltı yapmak isteyenlere geniş bir seçenek yelpazesi sunar.","https://gonamedya.com.tr/serpme.jpg"],
+      ["VİP Kahvaltı" ,"280₺","VIP kahvaltı, özel bir hizmet sunan ve daha lüks ve özenli bir şekilde hazırlanan kahvaltı çeşididir. VIP kahvaltıda, genellikle daha seçkin ve kaliteli malzemeler kullanılır. Özel olarak hazırlanmış tabaklar veya büfelerde, çeşitli taze meyveler, özel peynir çeşitleri, taze sıkılmış meyve suları, reçeller, pastalar, taze ekmekler ve zengin içecek seçenekleri gibi özel lezzetler sunulur. VIP kahvaltı, daha özel ve lüks bir kahvaltı deneyimi arayanlar için tercih edilen bir seçenektir.","https://gonamedya.com.tr/vip.jpg"],
+      ["Açık Büfe Kahvaltı" ,"130₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Çocuk Kahvaltı" ,"65₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sahanda Yumurta" ,"46₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sucuklu Yumurta" ,"68₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kaşarlı Omlet" ,"60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Salamlı Omlet" ,"60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Karışık Omlet" ,"60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Menemen" ,"55₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kıymalı Yumurta" ,"67₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kuymak" ,"60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    
+    ],
+
+    "Çorbalar":[
+        ["Günün Çorbası","30₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+        ["Günün Çorbası (Etli)", "35₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],
+    "Aperatifler":[
+      ["Kaşarlı Tost","55₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sucuklu Tost","60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Karışık Tost","65₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Hamburger","75₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Pizza","80₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Patates Cips","50₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Dana Wrap","110₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuklu Wrap","90₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sigara Böreği","40₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],"Makarnalar":[
+      ["Bolonez","65₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuku","65₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Mantarlı","65₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Domatesli","60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],"Salatalar":[
+      ["Biftekli Salata","99₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuklu Salata","75₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Peynirli Salata","50₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Çoban Salata","22₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Mevsim Salata","22₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ]
+    ,"Beyaz Etli Lezzetler":[
+      ["Saç Tava","98₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuk Sote","100₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Köri Soslu Tavuk","90₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Meksika Soslu Acı Tavuk","90₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ] ,"Kırmızı Etli Lezzetler":[
+      ["Et Sote","115₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Saç Tava","130₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sebzeli Biftek","140₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Ali Nazik","135₺","","https://gonamedya.com.tr/alinazik.jpg"],
+      ["Çeltik Kebabı","119₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Çökertme Kebabı","120₺","","https://gonamedya.com.tr/cokertme.jpg"],
+      ["Mantar Soslu Bonfile","145₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],"Izgara Çeşitleri":[
+      ["Köfte Izgara","98₺","","https://gonamedya.com.tr/koftepiyaz.jpg"],
+      ["Et Izgara","130₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Et Şiş","140₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Karışık Izgara","138₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuk Izgara","80₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuk Şiş","86₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Tavuk Kanat","85₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],
+    "Kebaplar":[
+      ["Adana Kebabı","95₺","","https://gonamedya.com.tr/adanakebap.jpg"],
+      ["Yoğurtlu Adana","105₺","","https://gonamedya.com.tr/yogurtluadana.jpg"],
+      ["Urfa Kebabı","95₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Beyti Kebabı","110₺","","https://gonamedya.com.tr/beytikebap.jpg"],
+      ["Vali Kebabı ","110₺","","valikebap.jpg"],
+      ["Patlıcan Yatağında Beyti","120₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["İskender Kebabı","115₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Fatsa Gurme Kebabı","285₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Patlıcan Kebabı","110₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Patlıcan Yatağında Dana Dürüm","120₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],"Fırından Lezzetler":[
+      ["Kıymalı Pide","80₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kuşbaşı Pide","85₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kaşarlı Pide","78₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Karışık Pide","96₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Beyaz Peynirli Pide","76₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sucuklu Pide","93₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kiremit Malz. Pide","90₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Pastırmalı Pide","96₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kapalı Pide + Ayran Menü","70₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Lahmacun","32₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kiremit Kebap","93₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+    ],"Tatlılar":[
+      ["Dondurma","60₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Profiterol","50₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Supangle","45₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Islak Kek","40₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Ekler (Tane)","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Ekler (Porsiyon)","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Yaş Pasta","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kuru Pasta","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Künefe Normal","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Künefe Fıstıklı","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Kazandibi","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Triliçe","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Magnolya","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sütlaç Sade","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sütlaç Ballı","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sütlaç Fındıklı","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sütlaç Fındıklı","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sütlaç Fındıklı","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"],
+      ["Sütlaç Fındıklı","12₺","","https://gonamedya.com.tr/kahvalt%C4%B1.jpg"]
+      
+    ]
+   
+   
+  }
